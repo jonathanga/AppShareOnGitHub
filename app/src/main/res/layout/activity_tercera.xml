@@ -9,7 +9,7 @@
     tools:context="co.edu.sena.jonathan.appshareongithub.Tercera">
 
     <TextView
-        android:text="Nueva Actividad desde otro usuario"
+        android:text="Nueva  Actividad desde otro usuario"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
 
