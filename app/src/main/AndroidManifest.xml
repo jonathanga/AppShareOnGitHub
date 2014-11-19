@@ -20,6 +20,10 @@
             android:name=".Segunda"
             android:label="@string/title_activity_segunda" >
         </activity>
+        <activity
+            android:name=".Tercera"
+            android:label="@string/title_activity_tercera" >
+        </activity>
     </application>
 
 </manifest>
